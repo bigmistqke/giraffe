@@ -1,5 +1,5 @@
-export type Vector = { x: number; y: number };
+export type Vector = { x: number; y: number }
 export type Handle = {
-  nodeId: string;
-  handleId: string;
-};
+  nodeId: string
+  handleId: string
+}
