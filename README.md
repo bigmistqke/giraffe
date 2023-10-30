@@ -6,7 +6,13 @@
 
 [![pnpm](https://img.shields.io/badge/maintained%20with-pnpm-cc00ff.svg?style=for-the-badge&logo=pnpm)](https://pnpm.io/)
 
-headless node-based editors in solid.js with little opinions 🦒
+headless node-based editors in solid.js 🍝
+
+## Philosophy
+
+- be flexible on how you structure the data
+- `spagett` doesn't own/mutate the data
+- mix and match rendering with html/svg/canvas
 
 ## Quick start
 
@@ -25,3 +31,6 @@ Use it:
 ```tsx
 import @bigmistqke/spagett from '@bigmistqke/spagett'
 ```
+
+
+
